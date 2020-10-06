@@ -1,0 +1,9 @@
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\bin\Debug\Inmuebles.exe.config
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.csprojResolveAssemblyReference.cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.Form1.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.Properties.Resources.resources
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.csproj.GenerateResource.Cache
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\bin\Debug\Inmuebles.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\bin\Debug\Inmuebles.pdb
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.exe
+D:\U.D.A\Segundo cuatrimestre\Laboratotio 2\Ejercicios\desafioInmueble\desafioInmuebles\Inmuebles\obj\Debug\Inmuebles.pdb

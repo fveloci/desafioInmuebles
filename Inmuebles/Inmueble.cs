@@ -8,25 +8,18 @@ namespace Inmuebles
 {
     abstract class Inmueble
     {
-        private string direccion;
-        private int metroscuadrados;
-        private bool esNuevo;
-        private int años;
-        private float precioBase;
+        protected string direccion;
+        protected int metroscuadrados;
+        protected bool esNuevo;
+        protected float precioBase;
 
-        public Inmueble(String direccion,int metroscuadrados,bool esNuevo, int años, float precioBase)
+        public Inmueble(string direccion,int metroscuadrados,bool esNuevo, float precioBase)
         {
             this.direccion = direccion;
             this.metroscuadrados = metroscuadrados;
-            this.EsNuevo = esNuevo;
-            this.Años = años;
+            this.esNuevo = esNuevo;
             this.precioBase = precioBase;
         }
-
-        public string Direccion { get => direccion; set => direccion = value; }
-        public int Metroscuadrados { get => metroscuadrados; set => metroscuadrados = value; }
-        public bool EsNuevo { get => esNuevo; set => esNuevo = value; }
-        public int Años { get => años; set => años = value; }
 
         abstract public float calcularPrecioTotal();
     }
